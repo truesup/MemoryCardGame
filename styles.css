@@ -7,6 +7,10 @@
 body {
   background-color: #f4c531;
 }
+img {
+  width: 70%;
+  height: 70%;
+}
 .wrapper {
   box-sizing: content-box;
   width: 26.87em;
